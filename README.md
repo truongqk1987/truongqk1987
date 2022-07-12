@@ -2,10 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on TrustingSocial company
-- 🌱 I’m currently earning blockchain technologies
-- 👯 I’m looking to collaborate on global developers
-- 💬 Ask me about frontend problems
+- My name is Khai Truong. I am a frontend developer.
 
 ![](https://gitwar.herokuapp.com/badge?username=truongqk1987&style=for-the-badge)
 <h3>Things I code with</h3>
